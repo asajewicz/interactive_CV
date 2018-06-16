@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[![to jest filmik]](https://www.youtube.com/watch?v=5FUdrBq-WFo)
+[to jest filmik](https://www.youtube.com/watch?v=5FUdrBq-WFo)
 
 You can use the [editor on GitHub](https://github.com/asajewicz/interactive_CV/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
